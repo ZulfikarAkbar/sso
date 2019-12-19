@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jasny/sso": "^0.3.0",
+        "vlucas/phpdotenv": "^4.0"
+    }
+}
